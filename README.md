@@ -48,13 +48,24 @@ fn main() {
 
 ### Value
 
-Error because value moved
-
 ```rust
-let s1 = String::from("hello");
-let s2 = s1;
 
-println!("{}, world!", s1);
+// Error: Value moved
+{
+    let s1 = String::from("hello");
+    let s2 = s1;
+
+    println!("{}, world!", s1);
+}
+
+// OK: Type has 'Copy' implementation
+// types including: u32, bool, true, false, f64, char, tuples of Copy-able types.
+{
+    let x = 5;
+    let y = x;
+
+    println!("x = {}, y = {}", x, y);
+}
 
 // OK: Clone it
 {
