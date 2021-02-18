@@ -114,6 +114,30 @@ fn takes_and_gives_back(s: String) -> String {
     println!("{}, {}, and {}", r1, r2, r3);
 }
 
+// Error: Guarantee to change on immutable-reference
+//   `word` is a reference to `s`
+//   if `s` changed -> compile error
+{
+    fn main() {
+        let mut s = String::from("hello world");
+        let word = first_word(&s);
+        s.clear(); // error!
+        println!("the first word is: {}", word);
+    }
+    
+    fn first_word(s: &String) -> &str {
+        let bytes = s.as_bytes();
+
+        for (i, &item) in bytes.iter().enumerate() {
+            if item == b' ' {
+                return &s[0..i];
+            }
+        }
+
+        &s[..]
+    }
+}
+
 // OK
 {
     let mut s = String::from("hello");
