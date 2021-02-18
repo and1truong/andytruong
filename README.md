@@ -80,6 +80,27 @@ Explain
 
 ![](https://doc.rust-lang.org/book/img/trpl04-04.svg)
 
+### Function
+
+```rust
+// `s` no longer accessible after call
+fn take_ownership(s String) {}
+
+// function borrows `s`, return it back after call
+fn borrow(s &String) {}
+
+// function's giving owner of `s`
+fn give_ownership() -> String {
+  let s = String::from("hello");
+  s
+}
+
+// function takes owner of `s` and gives it back
+fn takes_and_gives_back(s: String) -> String {
+    s
+}
+```
+
 ### Mut reference
 
 ```rust
