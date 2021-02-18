@@ -46,8 +46,22 @@ fn main() {
 - At any given time, you can have either one mutable reference or any number of immutable references.
 - References must always be valid.
 
-### Mut reference
+### Value
 
+Error because value moved
+
+```rust
+let s1 = String::from("hello");
+let s2 = s1;
+
+println!("{}, world!", s1);
+```
+
+Explain
+
+![](https://doc.rust-lang.org/book/img/trpl04-04.svg)
+
+### Mut reference
 
 ```rust
 // Error: Users of an immutable reference don’t expect the values to suddenly change out from under them!
