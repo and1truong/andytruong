@@ -96,6 +96,7 @@ struct Rectangle {
     height: u32,
 }
 
+// it's ok to implement methods in multiple blocks.
 impl Rectangle {
     fn area(&self) -> u32 {
         self.width * self.height
