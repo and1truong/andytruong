@@ -27,8 +27,28 @@ fn first_word(s: &String) -> usize {
     s.len()
 }
 
-// Return first word literal string
+// Return first word string literal
 fn first_word(s: &String) -> &str {
+    let bytes = s.as_bytes();
+
+    for (i, &item) in bytes.iter().enumerate() {
+        if item == b' ' {
+            return &s[0..i];
+        }
+    }
+
+    &s[..]
+}
+
+// String can be used as &str
+// str is slice
+// Usage: 
+//   let s = String::from("hello world");
+//   let _ = first_word(&s[..]); // OK: call with String
+//   let ls = "hello world";     // string literal
+//   let _ = first_word(ls);     // OK: string
+//   let _ = first_word(ls[..]); // OK: &str is slice
+fn first_word(s: &str) -> &str {
     let bytes = s.as_bytes();
 
     for (i, &item) in bytes.iter().enumerate() {
