@@ -2,6 +2,8 @@ Module
 ====
 
 - Package: A package is one or more crates that provide a set of functionality. A package contains a `Cargo.toml` file that describes how to build those crates.
+  - If a package contains `src/main.rs` and `src/lib.rs`, it has two crates: a library and a binary, both with the same name as the package.
+  - A package can have multiple binary crates by placing files in the src/bin directory: each file will be a separate binary crate.
 - Crate: A crate is a binary or library.
 
 ### Create a package
