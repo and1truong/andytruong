@@ -107,3 +107,19 @@ match some_u8_value {
     _ => (),
 }
 ```
+
+If let
+
+```rust
+// (1) is identical to (2), less verbose code
+if let Some(3) = some_u8_value {
+    println!("three");
+}
+
+// (2) match with lot of boilerplate code
+let some_u8_value = Some(0u8);
+match some_u8_value {
+    Some(3) => println!("three"),
+    _ => (),
+}
+```
