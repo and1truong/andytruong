@@ -1,6 +1,17 @@
 Type slice
 ====
 
+## Overview
+
+```
+// define
+let a = [1, 2, 3, 4, 5];
+
+// access part
+let slice = &a[1..3];
+
+```
+
 ## Methods
 
 ```rust
