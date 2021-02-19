@@ -17,5 +17,7 @@ Cargo.toml
 src
 
 $ ls my-project/src
-main.rs # Cargo follows a convention that src/main.rs is the crate root of a binary crate with the same name as the package.
+main.rs
+
+# Cargo follows a convention that src/main.rs is the crate root of a binary crate with the same name as the package.
 ```
