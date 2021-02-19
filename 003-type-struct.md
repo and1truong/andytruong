@@ -87,3 +87,31 @@ fn main() {
     println!("pretty print {:#}", rect1);
 }
 ```
+
+## Methods
+
+```rust
+struct Rectangle {
+    width: u32,
+    height: u32,
+}
+
+impl Rectangle {
+    fn area(&self) -> u32 {
+        self.width * self.height
+    }
+
+    fn can_hold(&self, other: &Rectangle) -> bool {
+        self.width > other.width && self.height > other.height
+    }
+    
+    // Associated Functions
+    // usage: let my_square = Rectangle::square(3);
+    fn square(size: u32) -> Rectangle {
+        Rectangle {
+            width: size,
+            height: size,
+        }
+    }
+}
+```
