@@ -7,6 +7,8 @@ Struct
 // define struct
 // ---------------------
 struct User {
+    // String is intented, we can't use `name: &string` because ownership, 
+    // object must own all ownership of its fields
     name: String,
     email: String,
     sign_in_count: u64,
