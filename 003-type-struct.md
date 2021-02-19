@@ -84,5 +84,6 @@ fn main() {
 
     // can print per we used directive `derive(Debug)` for the struct
     println!("rect1 is {:?}", rect1);
+    println!("pretty print {:#}", rect1);
 }
 ```
