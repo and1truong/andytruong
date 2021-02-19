@@ -10,7 +10,7 @@ let four = IpAddrKind::V4;
 let six = IpAddrKind::V6;
 ```
 
-## enum can also store value with type
+## Enum can also store value with type
 
 ```rust
 enum IpAddr {
@@ -29,6 +29,10 @@ enum Option<T> {
     Some(T),
     None,
 }
+
+let some_number = Some(5);
+let some_string = Some("a string");
+let absent_number: Option<i32> = None;
 ```
 
 ## Enum can store different types
