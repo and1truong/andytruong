@@ -58,7 +58,31 @@ let origin = Point(0, 0, 0);
 
 ## Unit-like struct
 
-```
+```rust
 // struct with no field!
 struct nothing ();
+```
+
+## Examples
+
+```rust
+#[derive(Debug)]
+struct Rectangle {
+    width: u32,
+    height: u32,
+}
+
+fn area(rectangle: &Rectangle) -> u32 {
+    rectangle.width * rectangle.height
+}
+
+fn main() {
+    let rect1 = Rectangle {
+        width: 30,
+        height: 50,
+    };
+
+    // can print per we used directive `derive(Debug)` for the struct
+    println!("rect1 is {:?}", rect1);
+}
 ```
