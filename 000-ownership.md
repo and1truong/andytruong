@@ -1,0 +1,133 @@
+Ownership
+====
+
+- At any given time, you can have either one mutable reference or any number of immutable references.
+- References must always be valid.
+
+## Value
+
+```rust
+
+// Error: Value moved
+{
+    let s1 = String::from("hello");
+    let s2 = s1;
+
+    println!("{}, world!", s1);
+}
+
+// OK: Type has 'Copy' implementation
+// types including: u32, bool, true, false, f64, char, tuples of Copy-able types.
+{
+    let x = 5;
+    let y = x;
+
+    println!("x = {}, y = {}", x, y);
+}
+
+// OK: Clone it
+{
+    let s1 = String::from("hello");
+    let s2 = s1.clone();
+
+    println!("s1 = {}, s2 = {}", s1, s2);
+}
+```
+
+Explain
+
+![](https://doc.rust-lang.org/book/img/trpl04-04.svg)
+
+## Function
+
+```rust
+// `s` no longer accessible after call
+fn take_ownership(s String) {}
+
+// function borrows `s`, return it back after call
+fn borrow(s &String) {}
+
+// function's giving owner of `s`
+fn give_ownership() -> String {
+  let s = String::from("hello");
+  s
+}
+
+// function takes owner of `s` and gives it back
+fn takes_and_gives_back(s: String) -> String {
+    s
+}
+```
+
+## Mut reference
+
+```rust
+// Error: Users of an immutable reference don’t expect the values to suddenly change out from under them!
+{
+    let mut s = String::from("hello");
+    let r1 = &s; // no problem
+    let r2 = &s; // no problem
+    let r3 = &mut s; // BIG PROBLEM
+
+    println!("{}, {}, and {}", r1, r2, r3);
+}
+
+// Error: Guarantee to change on immutable-reference
+//   `word` is a reference to `s`
+//   if `s` changed -> compile error
+{
+    fn main() {
+        let mut s = String::from("hello world");
+        let word = first_word(&s);
+        s.clear(); // error!
+        println!("the first word is: {}", word);
+    }
+    
+    fn first_word(s: &String) -> &str {
+        let bytes = s.as_bytes();
+
+        for (i, &item) in bytes.iter().enumerate() {
+            if item == b' ' {
+                return &s[0..i];
+            }
+        }
+
+        &s[..]
+    }
+}
+
+// OK
+{
+    let mut s = String::from("hello");
+
+    let r1 = &s; // no problem
+    let r2 = &s; // no problem
+    println!("{} and {}", r1, r2);
+    // r1 and r2 are no longer used after this point
+
+    let r3 = &mut s; // no problem
+    println!("{}", r3);
+}
+```
+
+## No dangling
+
+```rust
+fn main() {
+    let reference_to_nothing = dangle();
+}
+
+// Error: s goes out of scope, and is dropped. Its memory goes away. Danger!
+fn dangle() -> &String {
+    let s = String::from("hello");
+
+    &s
+}
+
+// OK
+fn no_dangle() -> String {
+    let s = String::from("hello");
+
+    s
+}
+```
