@@ -130,3 +130,15 @@ fn main() {
     println!("You guessed: {}", guess);
 }
 ```
+
+
+## Nested path
+
+```rust
+// Instead long list
+use std::cmp::Ordering;
+use std::io;
+
+// Use nested path
+use std::{cmp::Ordering, io};
+```
