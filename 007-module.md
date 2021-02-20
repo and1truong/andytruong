@@ -146,7 +146,7 @@ use std::{cmp::Ordering, io};
 
 ## Glob
 
-Bring all public items using glob operator
+Bring all public items using glob operator. Careful: Glob can make it harder to tell what names are in scope and where a name used in your program was defined.
 
 ```rust
 use std::collections::*;
