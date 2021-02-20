@@ -142,3 +142,12 @@ use std::io;
 // Use nested path
 use std::{cmp::Ordering, io};
 ```
+
+
+## Glob
+
+Bring all public items using glob operator
+
+```rust
+use std::collections::*;
+```
