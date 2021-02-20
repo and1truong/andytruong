@@ -62,9 +62,11 @@ pub fn eat_at_restaurant() {
     // Relative path
     front_of_house::hosting::add_to_waitlist();
 }
+```
 
-// Access parent module using `super` path
-// ---------------------
+Access parent module using `super` path
+
+```rust
 fn serve_order() {}
 
 mod back_of_house {
@@ -74,5 +76,16 @@ mod back_of_house {
     }
 
     fn cook_order() {}
+}
+```
+
+Define struct in module
+
+```rust
+mod back_of_house {
+    pub struct Breakfast {
+        pub toast: String,
+        seasonal_fruit: String,
+    }
 }
 ```
