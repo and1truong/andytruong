@@ -28,6 +28,18 @@ main.rs
 ### Module
 
 ```rust
+
+/*********************
+crate structure
+ └── front_of_house
+     ├── hosting
+     │   ├── add_to_waitlist
+     │   └── seat_at_table
+     └── serving
+         ├── take_order
+         ├── serve_order
+         └── take_payment
+*********************/
 mod front_of_house {
     mod hosting {
         fn add_to_waitlist() {}
