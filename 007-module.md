@@ -53,14 +53,17 @@ mod front_of_house {
     }
 }
 
+// bringing Paths into Scope with the use Keyword
+use crate::front_of_house::hosting;
+use crate::front_of_house::hosting::add_to_waitlist;
+
 // Calling logic inside modules using path
 // Error on compiling if `pub` access is not defined.
 pub fn eat_at_restaurant() {
-    // Absolute path
-    crate::front_of_house::hosting::add_to_waitlist();
-
-    // Relative path
-    front_of_house::hosting::add_to_waitlist();
+    crate::front_of_house::hosting::add_to_waitlist();  // absolute path
+    front_of_house::hosting::add_to_waitlist();         // relative path
+    hosting::add_to_waitlist();                         // module was imported by use keyword
+    add_to_waitlist();                                  // function was imported by use keyword
 }
 ```
 
@@ -91,24 +94,5 @@ mod back_of_house {
     
     // Enum inside module
     pub enum Appetizer { Soup, Salad }
-}
-```
-
-use
-
-```rust
-mod front_of_house {
-    pub mod hosting {
-        pub fn add_to_waitlist() {}
-    }
-}
-
-// bringing Paths into Scope with the use Keyword
-use crate::front_of_house::hosting;
-
-pub fn eat_at_restaurant() {
-    crate::front_of_house::hosting::add_to_waitlist();  // absolute path
-    front_of_house::hosting::add_to_waitlist();         // relative path
-    hosting::add_to_waitlist();                         // imported by use keyword
 }
 ```
