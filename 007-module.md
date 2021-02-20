@@ -93,3 +93,20 @@ mod back_of_house {
     pub enum Appetizer { Soup, Salad }
 }
 ```
+
+use
+
+```rust
+mod front_of_house {
+    pub mod hosting {
+        pub fn add_to_waitlist() {}
+    }
+}
+
+// bringing Paths into Scope with the use Keyword
+use crate::front_of_house::hosting;
+
+pub fn eat_at_restaurant() {
+    hosting::add_to_waitlist();
+}
+```
