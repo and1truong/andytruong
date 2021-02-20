@@ -79,13 +79,17 @@ mod back_of_house {
 }
 ```
 
-Define struct in module
+Define struct/enum in module
 
 ```rust
 mod back_of_house {
+    // struct inside module
     pub struct Breakfast {
         pub toast: String,
         seasonal_fruit: String,
     }
+    
+    // Enum inside module
+    pub enum Appetizer { Soup, Salad }
 }
 ```
