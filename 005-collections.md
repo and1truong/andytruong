@@ -7,18 +7,25 @@ Rust’s standard library includes a number of very useful data structures calle
 
 ```rust
 fn main() {
-  // define vector
-  // explicit: let my_vector: Vec<i32> = Vec::new();
-  let mut my_vector = vec![1, 2, 3, 4];
-  
-  println!("{}", my_vector[2]); // 3
-  
-  my_vector.push(490);
-  my_vector.remove(2); // remove element 3
-  
-  for number in my_vector.iter() {
-    println("{}", number);
-  }
+    // define vector
+    // explicit: let my_vector: Vec<i32> = Vec::new();
+    let mut my_vector = vec![1, 2, 3, 4];
+
+    // simple reading
+    println!("{}", my_vector[2]); // 3
+
+    // index my not point to valid result
+    match my_vector.get(490) {
+        Some(number) => println("{}", number),
+        None => println("Element not found"),
+    }
+
+    my_vector.push(490);
+    my_vector.remove(2); // remove element 3
+
+    for number in my_vector.iter() {
+        println("{}", number);
+    }
 }
 ```
 
