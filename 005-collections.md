@@ -11,8 +11,9 @@ fn main() {
     // explicit: let my_vector: Vec<i32> = Vec::new();
     let mut my_vector = vec![1, 2, 3, 4];
 
-    // simple reading
-    println!("{}", my_vector[2]); // 3
+    // access elements
+    let third = &my_vector[2]; // should make reference instead of getting ownership
+    println!("{} {}", third, my_vector[2]); // 3 3
 
     // index my not point to valid result
     match my_vector.get(490) {
