@@ -30,7 +30,7 @@ fn main() {
 }
 ```
 
-Store multiple type in Vector? We can: Enum
+Store multiple type in Vector? We can: Enum. Using an enum plus a match expression means that Rust will ensure at compile time that every possible case is handled,
 
 ```rust
 enum SpreadsheetCell {
