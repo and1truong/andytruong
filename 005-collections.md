@@ -5,6 +5,10 @@ Rust’s standard library includes a number of very useful data structures calle
 
 ## Vector
 
+Learn more:
+
+- https://doc.rust-lang.org/std/vec/struct.Vec.html
+
 ```rust
 fn main() {
     // define vector
