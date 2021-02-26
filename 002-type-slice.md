@@ -3,7 +3,7 @@ Type slice
 
 Learn more:
 
-- https://doc.rust-lang.org/std/vec/struct.Vec.html
+- https://doc.rust-lang.org/std/primitive.slice.html
 
 ## Overview
 
