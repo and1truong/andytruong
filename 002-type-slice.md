@@ -1,6 +1,10 @@
 Type slice
 ====
 
+Learn more:
+
+- https://doc.rust-lang.org/std/vec/struct.Vec.html
+
 ## Overview
 
 ```
