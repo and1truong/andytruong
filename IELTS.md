@@ -1,13 +1,5 @@
 # Awesome IELTS Resources!
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A collection of awesome IELTS web sites , tools, applications, and youtube channels.
-
-Contributions are always welcome!
-
-Thanks to all
-
 * [Awesome IELTS resources](#awesome-ielts)
   * [Intoduction To IELTS](#introielts)
   * [Listening](#listening)
