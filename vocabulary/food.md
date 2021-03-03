@@ -13,7 +13,7 @@ Good taste
 ## Others
 
 - raw-sushi: Uncooked
-- bland-soup -- no salt, no sugar, no spicy, … boring!
+- bland-soup -- no salt, no sugar, no spicy, no flavour… boring!
 
 ## Types of flavours
 
