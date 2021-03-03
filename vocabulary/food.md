@@ -34,6 +34,6 @@ Good taste
 
 …
 
-## Vegetable
+## Vegetable `/ˈvejtəb(ə)l/`
 
 …
