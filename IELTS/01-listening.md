@@ -21,14 +21,18 @@ Listening
 ## [3 easy steps](https://www.youtube.com/watch?v=k_LVNl35aJ4)
 
 1. Show you don't understand
-  - I didn't catch that
-  - I'm sorry. I don't understand.
+    - I didn't catch that
+    - I'm sorry. I don't understand.
 2. Use a strategy
-  - Could you please:
-    - Write it down?
-    - Repeat it?
-    - Speak more slowly?
-    - Say it in a different way?
+    - Could you please:
+      - Write it down?
+      - Repeat it?
+      - Speak more slowly?
+      - Say it in a different way?
+3. Check meaning
+    - So what you're saying is…
+    - So what you mean is…
+    - I think I get what you're saying…
 
 ## Links
 
