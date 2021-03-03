@@ -21,3 +21,12 @@ Good taste
 - oily: nhiều dầu; greasy: bóng nhờn
 - ripe: ripe
 - spicy, hot
+
+
+## Fruits
+
+…
+
+## Vegetable
+
+…
