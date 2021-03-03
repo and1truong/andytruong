@@ -25,6 +25,10 @@ Good taste
 - ripe: ripe
 - spicy, hot
 
+## Cook
+
+- I can cook.
+- My specialty is cooking.
 
 ## Fruits
 
