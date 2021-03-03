@@ -14,6 +14,9 @@ Listening
 9. listen/write at same time
 10. Be aware of changes: It's **2078**. No, I'm sorry. It's **4078**. (number changed)
 11. Listen to groups of number
+12. 13 vs 30
+13. Handwriting must be clear.
+14. Spelling - double **t**.
 
 ## Links
 
