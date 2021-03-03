@@ -4,6 +4,7 @@ Notes
 - Punctuation
 - Pronounce `verb-ed`
 - Tenses
+- Listen to groups of numbers (phone number, money change, …)
 
 Resources
 ====
