@@ -10,9 +10,6 @@ Resources
 
 * [Awesome IELTS resources](#awesome-ielts)
   * [Intoduction To IELTS](#introielts)
-  * [Reading](#reading)
-  * [Writing](#writing)
-  * [Speaking](#speaking)
   * [Vocabulary](#vocabulary)
   * [Others](#others)
   * [Youtube Channels](#youtubechannels)
@@ -22,29 +19,9 @@ Resources
 
 * [What is IELTS](http://takeielts.britishcouncil.org/choose-ielts/what-ielts) - What is IELTS
 
-
-## Reading
-
-* [IELTS Up Reading](http://ielts-up.com/reading/ielts-reading-test.html)
-
-## Writing
-
-* [IELTS Up Writing](http://ielts-up.com/exercises/ielts-writing-exercises.html)
-
-## Speaking
-
-* [Verbling](https://www.verbling.com/) For english tutor online
-
-* [Cambly](https://www.cambly.com/) For daily speaking practice
-
-* [GetspokenApp](http://www.getspokenapp.com/) Practice english with  Coach
-
-* [IELTS Speaking Co UK]( http://www.ieltsspeaking.co.uk/) Speaking exercise with vocabulary flashcards
-
 ## Vocabulary
 
 * [Quizlet](https://quizlet.com) - It's best for learning words easily(Android) (IOS)
-
 * [Forvo](http://forvo.com/)-It's a very good dictionary for pronanciation
 
 ## Others
