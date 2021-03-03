@@ -9,7 +9,7 @@ Listening
 4. Spelling counts
 5. cat vs cats
 6. Practice tests
-7. Prediction (the…
+7. Prediction (the woman will travel on _______)
 
 ## Links
 
