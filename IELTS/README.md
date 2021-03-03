@@ -3,6 +3,7 @@ Notes
 
 - Punctuation
 - Pronounce `verb-ed`
+- Tenses
 
 Resources
 ====
