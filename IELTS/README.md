@@ -7,7 +7,7 @@ Notes
 - Listen to groups of numbers (phone number, money change, …)
 - Popular expressions.
 - Can vs can't, man vs men.
-- [May vs Might](https://www.engvid.com/may-or-might/)
+- [May/Might](https://www.engvid.com/may-or-might/), can/could
 
 Resources
 ====
