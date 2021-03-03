@@ -6,6 +6,7 @@ Notes
 - Tenses
 - Listen to groups of numbers (phone number, money change, …)
 - Popular expressions.
+- I can, I can't
 
 Resources
 ====
