@@ -10,6 +10,10 @@ Listening
 5. cat vs cats
 6. Practice tests
 7. Prediction (the woman will travel on _______)
+8. Fill in the blanks - prodict if verb, noun, adj, … (She has three _______)
+9. listen/write at same time
+10. Be aware of changes: It's **2078**. No, I'm sorry. It's **4078**. (number changed)
+11. Listen to groups of number
 
 ## Links
 
