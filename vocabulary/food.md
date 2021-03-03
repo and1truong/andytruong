@@ -36,5 +36,5 @@ Good taste
 
 ## Vegetable `/ˈvejtəb(ə)l/`
 
-- broccoli
+- broccoli `/ˈbräk(ə)lē/`
 - …
