@@ -18,6 +18,18 @@ Listening
 13. Handwriting must be clear.
 14. Spelling - double **t**.
 
+## [3 easy steps](https://www.youtube.com/watch?v=k_LVNl35aJ4)
+
+1. Show you don't understand
+  - I didn't catch that
+  - I'm sorry. I don't understand.
+2. Use a strategy
+  - Could you please:
+    - Write it down?
+    - Repeat it?
+    - Speak more slowly?
+    - Say it in a different way?
+
 ## Links
 
 * [High Level Listening](http://www.highlevellistening.com/)
