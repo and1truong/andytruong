@@ -9,7 +9,7 @@
   * [Vocabulary](#vocabulary)
   * [Others](#others)
   * [Youtube Channels](#youtubechannels)
-  * [Podcasts] (#podcasts)
+  * [Podcasts](#podcasts)
 
 ## Intro IELTS
 
