@@ -9,8 +9,11 @@ Good taste
 - flavourful
 - divine: incredible, amazing
 - rich in flavour
-- raw-sushi
-- bland-soup
+
+## Others
+
+- raw-sushi: Uncooked
+- bland-soup -- no salt, no sugar, no spicy, … boring!
 
 ## Types of flavours
 
