@@ -18,6 +18,6 @@ Good taste
 - sweet
 - bitter: đắng
 - salty
-- oily: nhiều dầu
+- oily: nhiều dầu; greasy: bóng nhờn
 - ripe: ripe
 - spicy, hot
