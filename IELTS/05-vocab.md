@@ -10,4 +10,7 @@ Vocabulary
 5. ghost (verb) - *Chloe hasn't heard from her date in 2 weeks. He ghosted her.*
 6. surreal = string, weird - *since the coronavirus hit, life is surreal.*
 7. fake news = disinformation or lies presented like real news.
-8. toxic = negative, harmful - *remove toxic people from your life.*
+8. toxic = negative, harmful 
+    - *Remove toxic people from your life.*
+    - *My workplace isn't toxic.*
+9. influencer: Person with a large audience. They convice fans to buy products or live a certain lifestyle - *Instagram has influencers.*
