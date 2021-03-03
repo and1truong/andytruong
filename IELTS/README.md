@@ -5,6 +5,7 @@ Notes
 - Pronounce `verb-ed`
 - Tenses
 - Listen to groups of numbers (phone number, money change, …)
+- Popular expressions.
 
 Resources
 ====
