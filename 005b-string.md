@@ -6,3 +6,5 @@ String
   - String slice -> `str`
   - both `String` and `str` are UTF-8 encoded
 - Other string types: `OsString`, `OsStr`, `CString`, `CStr`.
+  - `xxxString` -> owned
+  - `xxxStr` -> borrowed.
