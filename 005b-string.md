@@ -9,10 +9,10 @@ String
   - `xxxString` -> owned
   - `xxxStr` -> borrowed.
 
+## Create new string
 
 ```rust
-// create new string
-// ---------------------
+// most basic
 let mut s = String::new();
 
 // from string slice
@@ -35,4 +35,12 @@ let hello = String::from("你好");
 let hello = String::from("Olá");
 let hello = String::from("Здравствуйте");
 let hello = String::from("Hola");
+```
+
+## Modify string
+
+```rust
+let mut s = String::from("foo");
+s.push_str("bar"); // doesn't take ownership of "bar"
+s.push('!');       // String char, quoted by '
 ```
