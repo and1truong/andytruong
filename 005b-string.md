@@ -8,3 +8,10 @@ String
 - Other string types: `OsString`, `OsStr`, `CString`, `CStr`.
   - `xxxString` -> owned
   - `xxxStr` -> borrowed.
+
+
+```rust
+// create new string
+let mut s = String::new();
+
+```
