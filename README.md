@@ -21,6 +21,7 @@
 ### [SPD Discipleship](https://vimeo.com/spddiscipleship)
 
 - Sabbath school
+  - [How to Interpret Scripture](https://vimeo.com/showcase/6899259)
   - [Acts](https://vimeo.com/showcase/5244061)
   - [Daniel](https://vimeo.com/showcase/6685975)
   - [Ezra & Nehemiah](https://vimeo.com/showcase/6321188)
