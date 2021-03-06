@@ -7,3 +7,9 @@
 4. Vindicated (The most holy)
 5. Call to His glory
 6. Defended by the Advocate
+
+
+## Gary
+
+- [Hope For Today - Gary Kent](https://www.youtube.com/playlist?list=PLvu-24LvYmABW2I9GgdwLQwc3JvxgZP-u)
+- …
