@@ -11,7 +11,9 @@ English
     - Singular noun: `John's`
     - Plural noun: `ladies'`
     - Irregular plural noun: `children's`
-    - mine, yours, hers, its, ours, theirs)
+    - Pronouns: mine, yours, hers, its, ours, theirs
+    - Reciprocal pronouns: They helped to look after each other’s children.
+    - Questions: Whose pens are those?
 - [Adjectives](https://learnenglish.britishcouncil.org/english-grammar-reference/adjectives)
 - [Adverbials](https://learnenglish.britishcouncil.org/english-grammar-reference/adverbials)
 - [Nouns](https://learnenglish.britishcouncil.org/english-grammar-reference/nouns)
