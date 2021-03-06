@@ -40,7 +40,17 @@ let hello = String::from("Hola");
 ## Modify string
 
 ```rust
-let mut s = String::from("foo");
-s.push_str("bar"); // doesn't take ownership of "bar"
-s.push('!');       // String char, quoted by '
+// append
+{
+  let mut s = String::from("foo");
+  s.push_str("bar"); // doesn't take ownership of "bar"
+  s.push('!');       // String char, quoted by '
+}
+
+// concate
+{
+  let s1 = String::from("Hello, ");
+  let s2 = String::from("world!");
+  let s3 = s1 + &s2; // note s1 has been moved here and can no longer be used
+}
 ```
