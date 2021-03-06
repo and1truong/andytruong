@@ -7,7 +7,6 @@
 5. Call to His glory
 6. Defended by the Advocate
 
-
 ## Collections
 
 - [Hope For Today - Gary Kent](https://www.youtube.com/playlist?list=PLvu-24LvYmABW2I9GgdwLQwc3JvxgZP-u)
@@ -15,6 +14,7 @@
 - [Dr. Jacques Doukhan - Isaiah Project](https://youtube.com/playlist?list=PLn0AoLSVl1eqjyuvGxh_-0lk0kNsM7pX2)
 - Hope Through Prophecy
   - [ENDGAME: The Antichrist, the USA, and the Mark of the Beast](https://www.youtube.com/watch?v=u7Q9FSXquQg)
+- [Unlocking Bible Prophecies](https://www.youtube.com/playlist?list=PLGPdsC4UKngv8lrdCFJLlTV5c-UXSOAYt)
 
 ## Channels
 
