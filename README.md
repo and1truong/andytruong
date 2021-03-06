@@ -4,8 +4,8 @@
 
 ## The Sanctuary sermon series
 
-1. Safe https://youtu.be/iL-fK5OF240?t=1211
-2. Forgiven sinners (the outer court)
+1. Safe - https://youtu.be/iL-fK5OF240?t=1211
+2. Forgiven sinners (the outer court) - https://youtu.be/v3_1j5b--cI?t=1529
 3. Transformed (The holy place)
 4. Vindicated (The most holy)
 5. Call to His glory
