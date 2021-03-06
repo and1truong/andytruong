@@ -18,6 +18,10 @@
 - [Unlocking Bible Prophecies](https://www.youtube.com/playlist?list=PLGPdsC4UKngv8lrdCFJLlTV5c-UXSOAYt)
 - [Digging Deeper – Unlocking Bible Prophecies](https://www.youtube.com/playlist?list=PLGPdsC4UKngvL_T3aBu1GfcYA9MQGcNVK)
 
+## Sabbath
+
+- [The True Sabbath - Amazing Prophecies](https://www.youtube.com/playlist?list=PLtjOw80_8d9qBJRsMd50MdRzKkRV7nalh)
+
 ## Channels
 
 ### [SPD Discipleship](https://vimeo.com/spddiscipleship)
