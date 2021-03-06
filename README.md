@@ -20,6 +20,12 @@ English
         - `-ing`: annoying, boring, shocking
         - `-ed`: annoyed, bored, tired, worried
     - Order: general opinion in front of a specific opinion -> nice tasty soup
+    - Comparative & superlative adjectives:
+        - X is better better
+        - Y is more expensive
+        - X is better than Y
+        - Y got bigger and bigger
+        - The faster you drive, the more dangerous it is.
 - [Adverbials](https://learnenglish.britishcouncil.org/english-grammar-reference/adverbials)
 - [Nouns](https://learnenglish.britishcouncil.org/english-grammar-reference/nouns)
 - [Verbs](https://learnenglish.britishcouncil.org/english-grammar-reference/verbs)
