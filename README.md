@@ -26,6 +26,7 @@
   - [Ezra & Nehemiah](https://vimeo.com/showcase/6321188)
   - [Revelation](https://vimeo.com/showcase/8144995)
   - [Isaiah: Comfort My People](https://vimeo.com/showcase/7911602)
+- [2021 Tithes and Offering Reading Videos: put God first](https://vimeo.com/showcase/7786492)
 - [King's Kids - Season 1](https://vimeo.com/showcase/6915672)
 - [King's Kids - Season 2](https://vimeo.com/showcase/7308648)
 - [King's Kids - Season 3](https://vimeo.com/showcase/7610908)
