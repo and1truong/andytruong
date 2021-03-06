@@ -24,6 +24,7 @@
   - [Acts](https://vimeo.com/showcase/5244061)
   - [Daniel](https://vimeo.com/showcase/6685975)
   - [Ezra & Nehemiah](https://vimeo.com/showcase/6321188)
+  - [Revelation](https://vimeo.com/showcase/8144995)
   - [Isaiah: Comfort My People](https://vimeo.com/showcase/7911602)
 - [King's Kids - Season 1](https://vimeo.com/showcase/6915672)
 - [King's Kids - Season 2](https://vimeo.com/showcase/7308648)
