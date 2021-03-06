@@ -1,3 +1,6 @@
+## Channels
+
+- https://vimeo.com/spddiscipleship
 
 ## The Sanctuary sermon series
 
