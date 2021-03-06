@@ -15,6 +15,11 @@ English
     - Reciprocal pronouns: They helped to look after each other’s children.
     - Questions: Whose pens are those?
 - [Adjectives](https://learnenglish.britishcouncil.org/english-grammar-reference/adjectives)
+    - Where: Before noun, describe noun
+    - Making
+        - `-ing`: annoying, boring, shocking
+        - `-ed`: annoyed, bored, tired, worried
+    - Order: general opinion in front of a specific opinion -> nice tasty soup
 - [Adverbials](https://learnenglish.britishcouncil.org/english-grammar-reference/adverbials)
 - [Nouns](https://learnenglish.britishcouncil.org/english-grammar-reference/nouns)
 - [Verbs](https://learnenglish.britishcouncil.org/english-grammar-reference/verbs)
