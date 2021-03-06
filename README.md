@@ -21,3 +21,7 @@
 ### [SPD Discipleship](https://vimeo.com/spddiscipleship)
 
 - [Isaiah: Comfort My People](https://vimeo.com/showcase/7911602)
+- [King's Kids - Season 1](https://vimeo.com/showcase/6915672)
+- [King's Kids - Season 2](https://vimeo.com/showcase/7308648)
+- [King's Kids - Season 3](https://vimeo.com/showcase/7610908)
+- [King's Kids - Season 4](https://vimeo.com/showcase/7967990)
