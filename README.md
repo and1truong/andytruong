@@ -19,3 +19,8 @@ English
 - How do I get to **somewhere**?
 - Have a nice **day/evening**.
 - Can I have [item], please?
+- [#] of [noun], please.
+  - 200 grams of the beef please.
+- How late are you open?
+- Do you have any plan for __this weekend__?
+- My [body part] hurts!
