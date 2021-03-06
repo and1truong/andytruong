@@ -12,4 +12,4 @@
 ## Gary
 
 - [Hope For Today - Gary Kent](https://www.youtube.com/playlist?list=PLvu-24LvYmABW2I9GgdwLQwc3JvxgZP-u)
-- …
+- [Gary Kent Incredible Journey](https://www.youtube.com/playlist?list=PLyQ3mRNhTiPNIm3AOOOwq69Jaj5mvKmZn)
