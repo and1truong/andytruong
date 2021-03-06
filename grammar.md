@@ -27,6 +27,9 @@ Grammar
     - Superlative adjective:
         - It was the happiest day of my life.
         - Everest is the highest mountain in the world.
+    - Intensifier
+        - It's a very interesting story.
+        - Everyone was very excited.
 - [Adverbials](https://learnenglish.britishcouncil.org/english-grammar-reference/adverbials)
 - [Nouns](https://learnenglish.britishcouncil.org/english-grammar-reference/nouns)
 - [Verbs](https://learnenglish.britishcouncil.org/english-grammar-reference/verbs)
