@@ -8,6 +8,7 @@ Notes
 - Popular expressions.
 - Can vs can't, man vs men.
 - [May/Might](https://www.engvid.com/may-or-might/), can/could
+- https://www.englishgrammar.org/rather/
 
 Resources
 ====
