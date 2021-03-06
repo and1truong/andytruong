@@ -25,3 +25,4 @@
 - [Mục sư NGUYỄN BÁ QUANG](https://youtube.com/playlist?list=PLEQq0NQgL-mEbcYWBvYnLJvl3Rw4MAFd2)
 - Trường Sa-bát
   - [Sách Đa-ni-ên](https://youtube.com/playlist?list=PL6Wo5wFr2MKdSibhEGR0vX4JypzSpM5ml)
+  - [Sách Ê-sai](https://www.youtube.com/playlist?list=PL6Wo5wFr2MKeF6NUYFxW9imBhlqvbPnVd)
