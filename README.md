@@ -1,7 +1,3 @@
-## Channels
-
-- https://vimeo.com/spddiscipleship
-
 ## The Sanctuary sermon series
 
 1. Safe - https://youtu.be/iL-fK5OF240?t=1211
@@ -19,3 +15,9 @@
 - [Dr. Jacques Doukhan - Isaiah Project](https://youtube.com/playlist?list=PLn0AoLSVl1eqjyuvGxh_-0lk0kNsM7pX2)
 - Hope Through Prophecy
   - [ENDGAME: The Antichrist, the USA, and the Mark of the Beast](https://www.youtube.com/watch?v=u7Q9FSXquQg)
+
+## Channels
+
+### [SPD Discipleship](https://vimeo.com/spddiscipleship)
+
+- [Isaiah: Comfort My People](https://vimeo.com/showcase/7911602)
