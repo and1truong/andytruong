@@ -43,6 +43,19 @@ Grammar
         - the chair leg
         - my coat pocket
         - London residents
+        - We can use noun modifiers to show what something is made of:
+            - a gold watch
+            - a leather purse
+            - a metal box
+        - We often use noun modifiers with nouns ending in –er:
+          - an office worker
+          - a jewellery maker
+          - a potato peeler
+      - We use measurements, age or value as noun modifiers:
+          - a thirty-kilogram suitcase
+          - a two-minute rest
+          - a five-thousand-euro platinum watch
+          - a fifty-kilometre journey
 - [Adverbials](https://learnenglish.britishcouncil.org/english-grammar-reference/adverbials)
 - [Nouns](https://learnenglish.britishcouncil.org/english-grammar-reference/nouns)
 - [Verbs](https://learnenglish.britishcouncil.org/english-grammar-reference/verbs)
