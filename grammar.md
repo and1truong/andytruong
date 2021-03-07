@@ -28,8 +28,14 @@ Grammar
         - It was the happiest day of my life.
         - Everest is the highest mountain in the world.
     - Intensifier
-        - It's a very interesting story.
-        - Everyone was very excited.
+        - It's a **very interesting** story.
+        - Everyone was **very excited**.
+        - It's a **really interesting** story.
+        - Everyone was **extremely excited**.
+    - Mitigator
+        - By the end of the day, we were rather tired.
+        - The film wasn't great, but it was quite exciting.
+        - We had a pretty good time at the party (informal)
 - [Adverbials](https://learnenglish.britishcouncil.org/english-grammar-reference/adverbials)
 - [Nouns](https://learnenglish.britishcouncil.org/english-grammar-reference/nouns)
 - [Verbs](https://learnenglish.britishcouncil.org/english-grammar-reference/verbs)
