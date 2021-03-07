@@ -43,3 +43,9 @@ Rules
 ## [IELTS TOEFL Writing Full essay](https://www.youtube.com/watch?v=lNeHfQBSebY)
 
 - Interpret/understand the question.
+- Note: They test English, don't test social knowledge.
+- Introduction: 3-4 sentences
+ - What is the topic?
+ - What is the question/debate?
+ - What is my opinion?
+ - Why?
