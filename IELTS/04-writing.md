@@ -42,8 +42,4 @@ Rules
 
 ## [IELTS TOEFL Writing Full essay](https://www.youtube.com/watch?v=lNeHfQBSebY)
 
-
-
-
-
-
+- Interpret/understand the question.
