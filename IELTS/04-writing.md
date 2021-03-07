@@ -22,3 +22,4 @@ Resources
   * dangling modifier
     * Problem: the subject of the adverb phrase does not mathc the subject at the main sentence.
     * Example: Running to catch the train, a cat jumped out in front of me.
+    * Fix: Write the sentense into two sentenses.
