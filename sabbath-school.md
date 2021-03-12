@@ -1,6 +1,8 @@
 Sabbath School
 ====
 
+- [sabbath.school › hopess](https://www.sabbath.school/Lesson#hopess)
+  - https://www.hopetv.org/hopess/
 - [The True Sabbath - Amazing Prophecies](https://www.youtube.com/playlist?list=PLtjOw80_8d9qBJRsMd50MdRzKkRV7nalh)
 
 ## [Come And Reason Ministries](https://www.youtube.com/channel/UCi1TK0v65xLZoAto5o4TLjg)
