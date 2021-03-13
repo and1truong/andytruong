@@ -12,6 +12,10 @@
 - [Hope For Today - Gary Kent](https://www.youtube.com/playlist?list=PLvu-24LvYmABW2I9GgdwLQwc3JvxgZP-u)
 - [Angel Wars Series](https://www.youtube.com/playlist?list=PLkm-VuSWQlW7gDZGp7ThLMaI2CyjeKZTB)
 - [Gary Kent Incredible Journey](https://www.youtube.com/playlist?list=PLyQ3mRNhTiPNIm3AOOOwq69Jaj5mvKmZn)
+  - [Season 1](https://www.youtube.com/playlist?list=PLknNFc_VMptCVru51CsF5DFjjiDNc3un-)
+  - [Season 2](https://www.youtube.com/playlist?list=PLknNFc_VMptCOnF3fI5qkm_H56yN95_ny)
+  - [Season 3](https://www.youtube.com/playlist?list=PLknNFc_VMptAzECp8kNqoEvN73S0RYa5P)
+  - [Season 4](https://www.youtube.com/playlist?list=PLknNFc_VMptC1oYDMBQzwfuMZrO-HE78N)
 - [What Does the Bible Say?](https://www.youtube.com/playlist?list=PLknNFc_VMptCyUR9oHV5j3fHeHCEiR1a2)
 - [Dr. Jacques Doukhan - Isaiah Project](https://youtube.com/playlist?list=PLn0AoLSVl1eqjyuvGxh_-0lk0kNsM7pX2)
 - Hope Through Prophecy
