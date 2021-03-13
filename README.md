@@ -12,12 +12,12 @@
 - [Hope For Today - Gary Kent](https://www.youtube.com/playlist?list=PLvu-24LvYmABW2I9GgdwLQwc3JvxgZP-u)
 - [Angel Wars Series](https://www.youtube.com/playlist?list=PLkm-VuSWQlW7gDZGp7ThLMaI2CyjeKZTB)
 - [Gary Kent Incredible Journey](https://www.youtube.com/playlist?list=PLyQ3mRNhTiPNIm3AOOOwq69Jaj5mvKmZn)
+- [What Does the Bible Say?](https://www.youtube.com/playlist?list=PLknNFc_VMptCyUR9oHV5j3fHeHCEiR1a2)
 - [Dr. Jacques Doukhan - Isaiah Project](https://youtube.com/playlist?list=PLn0AoLSVl1eqjyuvGxh_-0lk0kNsM7pX2)
 - Hope Through Prophecy
   - [ENDGAME: The Antichrist, the USA, and the Mark of the Beast](https://www.youtube.com/watch?v=u7Q9FSXquQg)
 - [Unlocking Bible Prophecies](https://www.youtube.com/playlist?list=PLGPdsC4UKngv8lrdCFJLlTV5c-UXSOAYt)
 - [Digging Deeper – Unlocking Bible Prophecies](https://www.youtube.com/playlist?list=PLGPdsC4UKngvL_T3aBu1GfcYA9MQGcNVK)
-
 
 ## Channels
 
@@ -29,4 +29,3 @@
 - [King's Kids - Season 2](https://vimeo.com/showcase/7308648)
 - [King's Kids - Season 3](https://vimeo.com/showcase/7610908)
 - [King's Kids - Season 4](https://vimeo.com/showcase/7967990)
-
