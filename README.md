@@ -26,11 +26,11 @@
 
 ## Channels
 
-### [SPD Discipleship](https://vimeo.com/spddiscipleship)
-
-- [2020 Tithes and Offering Reading Videos: put God first](https://vimeo.com/showcase/7537240)
-- [2021 Tithes and Offering Reading Videos: put God first](https://vimeo.com/showcase/7786492)
-- [King's Kids - Season 1](https://vimeo.com/showcase/6915672)
-- [King's Kids - Season 2](https://vimeo.com/showcase/7308648)
-- [King's Kids - Season 3](https://vimeo.com/showcase/7610908)
-- [King's Kids - Season 4](https://vimeo.com/showcase/7967990)
+- [SPD Discipleship](https://vimeo.com/spddiscipleship)
+  - [2020 Tithes and Offering Reading Videos: put God first](https://vimeo.com/showcase/7537240)
+  - [2021 Tithes and Offering Reading Videos: put God first](https://vimeo.com/showcase/7786492)
+  - [King's Kids - Season 1](https://vimeo.com/showcase/6915672)
+  - [King's Kids - Season 2](https://vimeo.com/showcase/7308648)
+  - [King's Kids - Season 3](https://vimeo.com/showcase/7610908)
+  - [King's Kids - Season 4](https://vimeo.com/showcase/7967990)
+- [Christ Jesus Ministries](https://www.youtube.com/c/ChristJesusMinistries/videos)
