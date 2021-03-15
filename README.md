@@ -22,6 +22,7 @@
   - [ENDGAME: The Antichrist, the USA, and the Mark of the Beast](https://www.youtube.com/watch?v=u7Q9FSXquQg)
 - [Unlocking Bible Prophecies](https://www.youtube.com/playlist?list=PLGPdsC4UKngv8lrdCFJLlTV5c-UXSOAYt)
 - [Digging Deeper – Unlocking Bible Prophecies](https://www.youtube.com/playlist?list=PLGPdsC4UKngvL_T3aBu1GfcYA9MQGcNVK)
+- [A Man Named Martin: How the Protestant Reformation Began](https://www.youtube.com/watch?v=lT3GCkdFV38)
 
 ## Channels
 
