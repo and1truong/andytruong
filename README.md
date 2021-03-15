@@ -34,3 +34,4 @@
   - [King's Kids - Season 3](https://vimeo.com/showcase/7610908)
   - [King's Kids - Season 4](https://vimeo.com/showcase/7967990)
 - [Christ Jesus Ministries](https://www.youtube.com/c/ChristJesusMinistries/videos)
+  - [Genesis Under a Microscope](https://www.youtube.com/playlist?list=PLI_SU2SFwv4vglCaHOQ3BHNB0cZBV6BSh)
