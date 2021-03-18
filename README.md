@@ -13,3 +13,4 @@ Frameworks
 
 - [ ] micronaut.io
 - [ ] ktor
+- [ ] https://mvnrepository.com/
