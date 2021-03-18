@@ -5,3 +5,9 @@ Kotlin
 - [ ] [Kotlin Vocabulary](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_T0fSZc9obnmnWcjvmJdw_)
   - [x] flow
   - [x] object
+
+Frameworks
+====
+
+- [ ] micronaut.io
+- [ ] ktor
