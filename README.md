@@ -8,6 +8,11 @@ Kotlin
 - [ ] [Hands-on](https://play.kotlinlang.org/hands-on/overview)
   - [ ] [Creating HTTP APIs with Ktor](https://play.kotlinlang.org/hands-on/Creating%20HTTP%20APIs%20with%20Ktor/01_introduction)
 
+Standards
+====
+
+- http://www.slf4j.org/
+
 Frameworks
 ====
 
