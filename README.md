@@ -13,6 +13,11 @@ Standards
 
 - http://www.slf4j.org/
 
+Libraries
+====
+
+- [ ] https://github.com/JetBrains/Exposed
+
 Frameworks
 ====
 
