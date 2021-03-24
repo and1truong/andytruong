@@ -8,6 +8,34 @@ https://www.youtube.com/watch?v=WMmoEBv5CNA
 
 ## Try
 
+### Setup
+
+#### Sync
+
+```mermaid
+graph LR
+
+user -- request --> api
+api -- request --> service
+service -- response --> api
+api -- response --> user
+```
+
+#### Async
+
+```mermaid
+graph LR
+
+user -- request --> api
+api -- commit --> bus["Message Bus"]
+bus -- consume --> service
+service -- commit --> bus
+bus -- consume --> api
+api -- response --> user
+```
+
+#### Run test
+
 ```
 $ go test ./ -v
 
