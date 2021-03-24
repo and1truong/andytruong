@@ -46,9 +46,9 @@ Spent time
 
 ```
 - Test/100/sync:  7.777695ms
-- Test/100/async:  6.232819ms
+- Test/100/async:  6.232819ms (faster 20%)
 - Test/500/sync:  28.300464ms
-- Test/500/async:  21.98124ms
+- Test/500/async:  21.98124ms (faster 22%)
 - Test/1k/sync:  51.44744ms
 - Test/1k/async:  42.417845ms (faster 17%)
 - Test/10k/sync:  501.545807ms
