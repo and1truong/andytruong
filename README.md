@@ -1,5 +1,12 @@
-Is async better
+Async communication
 ====
+
+## What?
+
+
+https://www.youtube.com/watch?v=WMmoEBv5CNA
+
+## Try
 
 ```
 $ go test ./ -v
