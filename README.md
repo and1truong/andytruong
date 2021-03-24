@@ -50,7 +50,7 @@ Spent time
 - Test/500/sync:  28.300464ms
 - Test/500/async:  21.98124ms
 - Test/1k/sync:  51.44744ms
-- Test/1k/async:  42.417845ms
+- Test/1k/async:  42.417845ms (faster 17%)
 - Test/10k/sync:  501.545807ms
-- Test/10k/async:  401.150082ms
+- Test/10k/async:  401.150082ms (faster 20%)
 ```
