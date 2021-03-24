@@ -128,8 +128,8 @@ func benchmarkAsync(t testing.TB, clientsCount int, requestsCount int) {
 
 	type (
 		requestStruct struct {
-			body     []byte
-			response chan []byte
+			body  []byte
+			inbox chan []byte
 		}
 	)
 
@@ -144,7 +144,7 @@ func benchmarkAsync(t testing.TB, clientsCount int, requestsCount int) {
 		for {
 			select {
 			case req := <-bus:
-				req.response <- []byte("pong")
+				req.inbox <- []byte("pong")
 				continue
 
 			case <-ctx.Done():
@@ -157,14 +157,14 @@ func benchmarkAsync(t testing.TB, clientsCount int, requestsCount int) {
 	apiServer := &fasthttp.Server{
 		Handler: func(ctx *fasthttp.RequestCtx) {
 			req := requestStruct{
-				body:     nil,
-				response: make(chan []byte),
+				body:  nil,
+				inbox: make(chan []byte),
 			}
 
 			bus <- req
 
 			select {
-			case out := <-req.response:
+			case out := <-req.inbox:
 				ctx.SetStatusCode(fasthttp.StatusOK)
 				ctx.SetBody(out)
 
@@ -185,7 +185,7 @@ func benchmarkAsync(t testing.TB, clientsCount int, requestsCount int) {
 				return apiListener.Dial()
 			},
 		},
-		clientsCount, // number of sessions
+		clientsCount,
 		requestsCount,
 	)
 }
