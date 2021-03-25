@@ -3,8 +3,24 @@ Working with statement
 
 ## For steps for xAPI
 
-- Define the LRS and the username and password to authenticate.
-- Tell the browser to use that LRS.
-- Define the xAPI statement.
-- Send the statement.
+### 1. Define the LRS and the username and password to authenticate.
 
+```js
+var conf = {
+  "endpoint": "https://…",
+  "user": "xapi-tools",
+  "password": "xxxxxxx"
+}
+```
+
+### 2. Tell the browser to use that LRS.
+
+…
+
+### 3. Define the xAPI statement.
+
+…
+
+### 4. Send the statement.
+
+…
