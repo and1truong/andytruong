@@ -15,12 +15,22 @@ var conf = {
 
 ### 2. Tell the browser to use that LRS.
 
-…
+```js
+ADL,XAPIWrapper.changeConfig(conf);
+```
 
 ### 3. Define the xAPI statement.
 
-…
+```js
+const statement = {
+  "actor": …
+  "verb": …
+  "object": …
+}
+```
 
 ### 4. Send the statement.
 
-…
+```js
+const result = ADL.XAPIWrapper.sendStatement(statement);
+```
