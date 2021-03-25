@@ -48,6 +48,18 @@ Tom played "Caminandes Video"
 }
 ```
 
+## Planning for event tracking
+
+Think about who will use the data
+
+- Library - how many people completed?
+- Instructor - how many people enrolled?
+- Content developer - how many people completed all the activities?
+- Media editor - how many people watched the videos?
+- Instructor designer - how did people do on the exams?
+- System admin - how many people took the course and how long did it takes?
+- Product manager - what's the bottom line?
+
 ## xAPI Unique Identifiers
 
 - IRI: Internationalized Resource Identifier
