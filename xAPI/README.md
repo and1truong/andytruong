@@ -3,6 +3,7 @@ xAPI
 
 ## Resources
 
+- https://github.com/adlnet/xAPI-Spec/blob/master/xAPI-About.md
 - https://xapi.vocab.pub/browse/index.html
 - CMI5 - xAPI with rules
   - https://github.com/AICC/CMI-5_Spec_Current/blob/quartz/cmi5_spec.md
