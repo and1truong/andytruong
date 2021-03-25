@@ -128,3 +128,29 @@ Example
 	}
 }
 ```
+
+## Extension
+
+- Extensions add custom information to create more detailed definitions/statements.
+- They can extend the definition of the Object, Result, or Context elements.
+- Keys must be fully qualified IRIs (usually will be URLs).
+  - Extract opposite of Object IDs
+  - URLs should resolve to a working webpage to provide further informations, but it is not required.Sin
+
+```json
+{
+	"object": {
+		"id": "https://www.linkedin.com/learning/xapi-foundations/",
+		"objectType": "Activity",
+		"definition": {
+			"name": { "en-US": "xAPI Foundations"},
+			"description": {
+				"en-US": "An introduction to the Experience API"
+			}
+		},
+		"extensions": {
+			"https://example.com/xAPI_ext/catalog": "12345"
+		}
+	}
+}
+```
