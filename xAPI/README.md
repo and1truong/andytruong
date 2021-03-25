@@ -83,3 +83,18 @@ example 2
     }
 }
 ```
+
+## Result
+
+```json
+{
+	"result": {
+		"completion": true,
+		"success": true,
+		"score": {
+			"raw": 95,
+			"scaled": 0.95
+		}
+	}
+}
+```
