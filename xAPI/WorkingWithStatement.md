@@ -3,6 +3,8 @@ Working with statement
 
 ## For steps for xAPI
 
+Library: https://github.com/adlnet/xAPIWrapper
+
 ### 1. Define the LRS and the username and password to authenticate.
 
 ```js
