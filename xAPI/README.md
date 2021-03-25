@@ -98,3 +98,33 @@ example 2
 	}
 }
 ```
+
+## Context
+
+1. *registration* - UUID that links the statements to the same registration/enrollment.
+2. *instructor* - an agent that describes who provided the instruction, or taught the class.
+3. *revision* - free-form string value that is used to denote updates to the activity, such as bug fixes and typo corrections; however, extensive updates should be references with a new activity/object ID.
+4. *platform* - free-form string value, which can be used to list the method of delivery of the activity.
+5. *language* - describes the language used during the activity.
+6. *Team* (advanced)
+7. *contextActivities* (advanced)
+8. *Statement* (advanced)
+
+Example
+
+```json
+{
+	"context": {
+		"registration": "01F1MH0JFKW830816P6BJH6MC3",
+		"instructor": {
+			"account": {
+				"name": "aa_doe",
+				"homePage": "https://twitter.com/aa_doe"
+			}
+		},
+		"revision": "1",
+		"platform": "LinkedIn.com/learning",
+		"language": "en-US"
+	}
+}
+```
