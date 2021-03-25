@@ -154,3 +154,19 @@ Example
 	}
 }
 ```
+
+## Timestamp
+
+```json
+{
+  "timestamp": "2021-03-25T07:07:07.177Z"
+}
+```
+
+Javascript
+
+```js
+{
+  "timestamp": new Date().toISOString()
+}
+```
