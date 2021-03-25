@@ -53,3 +53,33 @@ Tom played "Caminandes Video"
 - IRI: Internationalized Resource Identifier
 - URI: Uniform Resource Identifier
 - URL: Uniform Resource Locator
+
+## Actor
+
+example 1
+
+```json
+{
+    "actor": {
+        "mbox":"mailto:tom@example.com",
+        "name":"Tom Doe",
+        "objectType": "Agent"
+    }
+}
+```
+
+example 2
+
+```json
+{
+    "actor": {
+        "account": {
+            "name":"TomDoe",
+            "homePage": "https://www.myLMS.com",
+            "mbox_sha1sum": "41f0631eedc0664d61adcff8d0a248d7a141aa15",
+            "openid": "https://d_thompson.myopenID.com"
+        },
+        "objectType": "Agent"
+    }
+}
+```
